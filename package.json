@@ -1,0 +1,16 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass style.scss style.css --watch",
+    "compile": "node-sass style.scss style.css"
+
+  },
+  "author": "Amanada taheri",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
