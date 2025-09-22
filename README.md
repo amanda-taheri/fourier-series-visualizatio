@@ -6,7 +6,7 @@ Includes adjustable harmonics, live drawing, and optional epicycles view.
 ---
 
 ## 🎥 Demo
-https://amanda-taheri.github.io/fourier-series-visualizatio/
+https://amanda-taheri.github.io/fourier-series-visualization/
 
 ---
 
